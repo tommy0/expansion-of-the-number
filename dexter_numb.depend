@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1414531275 source:d:\project\dexter_numb\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+
